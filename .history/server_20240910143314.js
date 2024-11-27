@@ -1,6 +1,0 @@
-const express = require('express')
-const pool = require("./database")
-const bcrypt - require('bcryptjs")
-const jwt = require('jsonwebtoken') 
-const cors = require('cors') 4.5k (gzipped: 1.9k)
-require('dotenv').config() 6.4k (gzipped: 2.8k)
